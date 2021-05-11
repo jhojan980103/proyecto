@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe1e3773ddaa9ce48835846fb8e11c7f, type: 3}
+  m_Name: Pregunta5
+  m_EditorClassIdentifier: 
+  _info: "La duplicaci\xF3n del ADN se reconoce por la identificaci\xF3n de los subprocesos
+    como:"
+  _answers:
+  - _info: "a) Reconstrucci\xF3n, autodeterminaci\xF3n, duplicaci\xF3n o autoduplicaci\xF3n."
+    _isCorrect: 0
+  - _info: "b) Reparaci\xF3n, autoevaluaci\xF3n, bifurcaci\xF3n o autofifurcaci\xF3n."
+    _isCorrect: 0
+  - _info: "c) Replicaci\xF3n, autorreplicaci\xF3n, duplicaci\xF3n o autoduplicaci\xF3n."
+    _isCorrect: 1
+  - _info: "d) Renderizaci\xF3n, autoregulaci\xF3n, duplicaci\xF3n o autoduplicaci\xF3n."
+    _isCorrect: 0
+  _useTimer: 0
+  _timer: 0
+  _answerType: 1
+  _addScore: 10

@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MenuPrincipal.unity
+    guid: e9a4fef7555bcb34999bf998a610525f
+  - enabled: 1
+    path: Assets/Scenes/DialogoIntroduccion.unity
+    guid: c53de07e6b9ea0044bf229b9b5edefd3
+  - enabled: 1
+    path: Assets/Scenes/seguridad.unity
+    guid: 130721f0e0d24c24b899195609ca40d3
+  - enabled: 1
+    path: Assets/Scenes/MenuNiveles.unity
+    guid: 841fcc010114d4647aac0aabf7c6bcc6
+  - enabled: 1
+    path: Assets/Scenes/DialogoJuego_1.unity
+    guid: 93a11b884fafeb34eafebb16e4a8d507
+  - enabled: 1
+    path: Assets/Scenes/DialogoJuego_2.unity
+    guid: 50a5564f79cde664bb7c9ed84d0d49dd
+  - enabled: 1
+    path: Assets/Scenes/DialogoJuego_3.unity
+    guid: 26c9df06ef04ce84185bc340773a946e
+  - enabled: 1
+    path: Assets/Scenes/DialogoJuego_4.unity
+    guid: b19f272d70f3c304a981e04f7b435092
+  - enabled: 1
+    path: Assets/Scenes/DialogoJuego_5.unity
+    guid: 4865ac2a79cd61e468710395bb579315
+  - enabled: 1
+    path: Assets/Scenes/DialogoJuego_6.unity
+    guid: 12a08c3143172a7479a9d31064650dee
+  - enabled: 1
+    path: Assets/Scenes/juego1.unity
+    guid: 3bacd3cc78857694a9d61e74437b870d
+  - enabled: 1
+    path: Assets/Scenes/juego2.unity
+    guid: 7d26875e07a943f45aec9807f0df4662
+  - enabled: 1
+    path: Assets/Scenes/MenuJuego3.unity
+    guid: d1590adffbb70ab49b4e480d300285c1
+  - enabled: 1
+    path: Assets/Scenes/juego3.unity
+    guid: b565749094333964697897719eee63c4
+  - enabled: 1
+    path: Assets/Scenes/juego4.unity
+    guid: 3b18643fb89d2ff469c42c668fb4022d
+  - enabled: 1
+    path: Assets/Scenes/juego5.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/juego6.unity
+    guid: 048eded9062c4a0489d60ab5686101fd
+  m_configObjects: {}

@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe1e3773ddaa9ce48835846fb8e11c7f, type: 3}
+  m_Name: Pregunta6
+  m_EditorClassIdentifier: 
+  _info: "La transcripci\xF3n del c\xF3digo hereditario es la primera etapa de la
+    expresi\xF3n gen\xE9tica y consiste en:"
+  _answers:
+  - _info: "a) Transferir la informaci\xF3n grabada en la espiral de ADN a secuencias
+      de prote\xEDnas con la intervenci\xF3n del ARN como uno de los intermediarios."
+    _isCorrect: 1
+  - _info: "b) Transferir la informaci\xF3n grabada en la espiral de ARN a secuencias
+      de prote\xEDnas con la intervenci\xF3n del ADN como uno de los intermediarios."
+    _isCorrect: 0
+  - _info: "c) Transferir la informaci\xF3n grabada en la espiral de prote\xEDnas
+      a secuencias de ADN con la intervenci\xF3n del ARN como uno de los intermediarios."
+    _isCorrect: 0
+  - _info: "d) Transferir la informaci\xF3n grabada en la espiral de prote\xEDnas
+      a secuencias de ARN con la intervenci\xF3n del ADN como uno de los intermediarios."
+    _isCorrect: 0
+  _useTimer: 0
+  _timer: 0
+  _answerType: 1
+  _addScore: 10
